@@ -1,4 +1,4 @@
-# &#19918; <img align="right" width="300" src="https://github.com/sunyatin/qna/blob/main/model.png">
+# &#19918; <img align="right" width="300" src="https://github.com/sunyatin/qna_data/blob/main/model.png">
 
 This repository contains all relevant simulated data[^1] from the study "*Questioning Neanderthal admixture*" (doi: https://doi.org/10.1101/2023.04.05.535686). Scripts and additional files are found in another repository named [qna](https://github.com/sunyatin/qna).
 
