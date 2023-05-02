@@ -1,6 +1,6 @@
 # Description of the directory content
 
-**Note.** Genome sizes are written as AxB with A the number of chromosomes and B their size in Mbp.
+**Note.** Genome sizes are written as {*A*}x{*B*} with *A* the number of chromosomes and *B* their size in Mbp.
 
 ### **data**
 
