@@ -4,4 +4,14 @@ This repository contains all relevant simulated data[^1] from the study "*Questi
 
 It also contains, within `genetic_maps/`, the empirical recombination maps (PLINK HapMap, Spence et al. 2019) used in the study.
 
+# Layout
+
+```bash
+
+Final_Blake/
+
+genetic_maps/
+
+```
+
 [^1]: Genetic data are in [EIGENSTRAT](https://reich.hms.harvard.edu/software/InputFileFormats) format with a modification: `0` encodes the **ancestral homozygous** genotype (instead of the *derived* homozygous genotype in pure EIGENSTRAT). Subsequently, `2` encodes the derived homozygous genotype. All genotypes are mono- or bi-allelic at most.
