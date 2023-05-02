@@ -9,9 +9,9 @@ It also contains, within `genetic_maps/`, the empirical recombination maps (PLIN
 Details about the files can be found in the README of the respective directories.
 
 ```bash
-Final_Blake/		# archive of the simulated data
-	data/		# simulated data
-	further/	# further simulations (aDNA, Fst trajectories...)
+Final_Blake/		# archive of the simulated data/stats
+	data/		# simulated data/stats
+	further/	# further simulations/tests (aDNA, Fst trajectories...)
 
 genetic_maps/		# empirical genetic maps
 	HapMap/
