@@ -4,7 +4,7 @@
 
 ## data
 
-| Directory | Description | Genome size | Recombination type
+| Directory | Description | Genome size | Recombination type |
 | -- | -- | -- | -- |
 | 1M | Genetic data simulated from sampling one million times in the parameter prior distributions, after statistical screening | 10x7Mbp | Uniform |
 
