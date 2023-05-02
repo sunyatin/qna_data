@@ -5,8 +5,9 @@
 ## data
 
 | Directory | Description | Genome size | Recombination type
-| -- | -- | -- | -- | -- |
+| -- | -- | -- | -- |
 | 1M | Genetic data simulated from sampling one million times in the parameter prior distributions, after statistical screening | 10x7Mbp | Uniform |
+
 
 - `1M`  (G=10x7Mbp)
 - `20x30Mbp.1_2e-8` The published admixture models and our structured model (20 accepted runs) simulated with a mutation rate of 1.2e-8 (G=20x30Mbp)
